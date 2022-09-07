@@ -1,0 +1,10 @@
+package moq
+package moq.enitityframeworkCore (returnDbSet)
+package shouldly
+package AutoFixture
+
+Nunit
+NUnit3TestAdapter
+Microsoft.NET.Test.Sdk
+
+Microsoft.EntityFrameworkCore.InMemory
